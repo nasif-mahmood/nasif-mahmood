@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @nasif-mahmood
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey there! 👋
 
-<!---
-nasif-mahmood/nasif-mahmood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Nasif Mahmood! 
+I am currently a BS SE Student at The University of Texas at Dallas. 
+
+### 🌱 Interests
+- Web Development
+- Artificial Intelligence
+- Machine Learning
+- Video Game Development
+
+### 📫 How to reach me!
+
+nasif.mahmood456@gmail.com  
+www.linkedin.com/in/nasif-mahmood
+
