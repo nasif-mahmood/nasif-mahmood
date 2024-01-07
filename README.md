@@ -2,6 +2,7 @@
 
 I'm Nasif Mahmood! 
 BS Software Engineering Graduate
+
 Currently pursuing a Master's of Science in Computer Science
 
 ### 🌱 Interests
