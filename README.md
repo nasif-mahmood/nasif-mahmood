@@ -1,7 +1,8 @@
 ### Hey there! 👋
 
 I'm Nasif Mahmood! 
-I am currently a BS SE Student at The University of Texas at Dallas. 
+BS Software Engineering Graduate
+Currently pursuing a Master's of Science in Computer Science
 
 ### 🌱 Interests
 - Web Development
